@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\CORELAB-USER\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\CORELAB-USER\\.nuget\\packages"
+    ]
+  }
+}
